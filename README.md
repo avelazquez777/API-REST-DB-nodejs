@@ -1,4 +1,7 @@
 # Proyecto API REST con Sequelize - Products
+-usuario admin-
+email: nuevamente1@gmail.com
+contraseña: a123456
 
 Este proyecto es una API REST básica construida con Node.js, Express y Sequelize, con una estructura tradicional:
 
